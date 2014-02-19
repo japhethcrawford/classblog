@@ -1,24 +1,11 @@
 ---
 layout: post
-title:  "This is the first Post"
-date:   2014-02-18 18:35:50
-categories: newblog
+title:  "eleks"
+date:   2014-01-29
+categories: posts
+tags: [Favorite Things on the Web]
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+![alt text]({{ site.url }}/assets/blogImages/2014/January/eleks_screenshot.jpg "www.eleks.com")
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Not only does this show off some crazy capabilities of Google Glasses, but it shows it in a really interactive way. The landing page starts out with just a large background video, but eventually the viewer has to speak into the computer's microphone to tell "google glass" to do whatever it tells you to say.. which is sort of gimmicky but still kind of cool. I was most impressed with how the background video was constantly being controlled by scrolling. Scrolling up would reverse the video and scrolling down would advance it.  
