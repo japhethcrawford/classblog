@@ -2,7 +2,7 @@
 layout: post
 title:  "This is the first Post"
 date:   2014-02-18 18:35:50
-categories: jekyll post
+categories: jekyll update
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
