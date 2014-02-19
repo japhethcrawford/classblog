@@ -1,4 +1,4 @@
 name: Japheth Crawford
 markdown: redcarpet
 pygments: true
-url: "http://japhethcrawford.github.io/classblog"
+baseurl: "http://japhethcrawford.github.io/classblog"
