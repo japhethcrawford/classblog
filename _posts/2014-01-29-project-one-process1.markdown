@@ -18,7 +18,7 @@ tags: [Project One Process]
 Not since college
   
   
-_What do you go to the library for?_
+__What do you go to the library for?__
 Research, studying....should start going more often though, once I get through the books I own that I haven't read yet, I'll look to the library haha
 
 ###Do you ever use the library website? What for?
