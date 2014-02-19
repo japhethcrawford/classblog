@@ -6,7 +6,7 @@ categories: posts
 tags: [Project One Process]
 ---
 
-[Download Research Phase PDF]({{ site.url }}assets/researchPhase.pdf)
+[Download Research Phase PDF]({{ site.url }}/assets/researchPhase.pdf)
 
 
 #Interviews
