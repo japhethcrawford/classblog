@@ -18,7 +18,7 @@ tags: [Project One Process]
 Not since college
   
   
-###What do you go to the library for?
+_What do you go to the library for?_
 Research, studying....should start going more often though, once I get through the books I own that I haven't read yet, I'll look to the library haha
 
 ###Do you ever use the library website? What for?
@@ -39,7 +39,8 @@ Possibly. Sometimes it's good to get into that environment. And i still believe 
 ###When reading on a desktop, is there anything that could be done to better your experience?
 Display features more like the kindle etc that'd make the screen easier on the eyes. Interactive highlighting features, taking notes in the margins.....all things about printed materials that aren't available in digital that discourage me from being more invested and engaged in my digital reading endeavors
 
-
+---   
+---
 
 
 ##Jon, Male, 23
@@ -69,7 +70,8 @@ Nope
 ###When reading on a desktop, is there anything that could be done to better your experience?
 Changing the size of the text, highlighting, and the ability to look up any of the words
 
-
+---   
+---
 
 ##Danielle, Female, 33
 *High School English Teacher*
@@ -98,7 +100,8 @@ I’m not sure I could read everything digitally.  There’s something still to 
 ###When reading on a desktop, is there anything that could be done to better your experience?
 I don’t like reading on a desk/laptop.  The screen often burns into my vision and I have to look away to regain my optimum eyesight (hard to explain, but I just can’t read for long).  I wouldn’t read anything lengthy on a desk or laptop.
 
-
+---   
+---
 
 
 ##Corinne, Female, 42
@@ -128,7 +131,8 @@ I would still go to the library to pick up DVDs.  I really like the library.  
 ###When reading on a desktop, is there anything that could be done to better your experience?
 I don't like reading on a desktop.  I prefer the physical book.
 
-
+---   
+---
 
 
 ##Dan, Male, 34
@@ -156,7 +160,8 @@ No
 ###When reading on a desktop, is there anything that could be done to better your experience?
 Make it uncluttered (no ads, etc) and easy on the eyes
 
-
+---   
+---
 
 
 
