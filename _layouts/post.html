@@ -2,10 +2,31 @@
 layout: post
 title: Japheth Crawford - Blog
 ---
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
 
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
 
-<div class="post">
-{{ content }}
-</div>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+        
+        <!-- Bootstrap Framework -->
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap-theme.css">
+		<script type="text/javascript" src="{{ site.url }}/js/bootstrap.js"></script>
+		
+    </head>
+    <body>
+		<div class="container-fluid">
+			<h2>{{ page.title }}</h2>
+			<p class="meta">{{ page.date | date_to_string }}</p>
+			
+			<div class="post">
+			{{ content }}
+			</div>
+		</div><!-- End Bootstrap Container -->
