@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELEKS – Google Glass"
+title:  "Week One Favorites of the Internet"
 date:   2014-01-29
 categories: posts
 tags: [Favorite Things on the Web]
