@@ -18,14 +18,14 @@ I've chosen to do an additional page which will be a public profile page that wi
   
 They page diagrams pdf provided above will also outline what exactly is going on in a few of the other pages.
 
-![](/assets/proj1Sketches/A.jpg)<br />
-![](/assets/proj1Sketches/B.jpg)<br />
-![](/assets/proj1Sketches/C.jpg)<br />
-![](/assets/proj1Sketches/D.jpg)<br />
-![](/assets/proj1Sketches/E.jpg)<br />
-![](/assets/proj1Sketches/F.jpg)<br />
 
 
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/A.jpg)<br />
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/B.jpg)<br />
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/C.jpg)<br />
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/D.jpg)<br />
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/E.jpg)<br />
+![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/F.jpg)<br />
 
 
 
