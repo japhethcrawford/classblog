@@ -6,7 +6,7 @@ categories: posts
 tags: [Project One Process]
 ---
 
-[Download Style Tile PDF]({{ site.url }}/assets/proj1StyleTileV1.pdf)
+[Download Style Tile PDF]({{ site.url }}/assets/proj1StyleTileV1.pdf)<br />
 [Download Page Diagrams PDF]({{ site.url }}/assets/proj1PageDiagrams.pdf)  
   
   
