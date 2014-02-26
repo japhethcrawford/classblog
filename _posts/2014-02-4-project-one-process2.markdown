@@ -22,12 +22,12 @@ They page diagrams pdf provided above will also outline what exactly is going on
 
 ![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/A.jpg)<br />
 ![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/B.jpg)<br />
-![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/C.jpg)<br />
+![alt](../assets/proj1Sketches/C.jpg)<br />
 ![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/D.jpg)<br />
 ![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/E.jpg)<br />
 ![alt](http://www.japhethcrawford.github.io/classblog/assets/proj1Sketches/F.jpg)<br />
 
-
+<img src="../assets/proj1Sketches/C.jpg" alt="C" width="600" height="800" />
 
 
 
