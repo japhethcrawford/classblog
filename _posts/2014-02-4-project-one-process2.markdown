@@ -21,15 +21,20 @@ They page diagrams pdf provided above will also outline what exactly is going on
 
 
 ![alt]({{ site.url }}/assets/proj1Sketches/A.jpg)  
-
+  
+  
 ![alt]({{ site.url }}/assets/proj1Sketches/B.jpg)  
-
+  
+  
 ![alt]({{ site.url }}/assets/proj1Sketches/C.jpg)  
-
+  
+  
 ![alt]({{ site.url }}/assets/proj1Sketches/D.jpg)  
-
+  
+  
 ![alt]({{ site.url }}/assets/proj1Sketches/E.jpg)  
-
+  
+  
 ![alt]({{ site.url }}/assets/proj1Sketches/F.jpg)  
 
 
