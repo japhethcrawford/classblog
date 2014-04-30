@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Week Five Favorites of the Internet"
-date:   2014-02-25
+title:  "Week Eight"
+date:   2014-03-18
 categories: posts
 tags: [Favorite Things on the Web]
 ---
 
-##GlossyRey Studio
+##TBA
 <a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki1.jpg)</a>  
   
    

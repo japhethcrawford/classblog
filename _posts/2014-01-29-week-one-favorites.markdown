@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week One Favorites of the Internet"
+title:  "Week One"
 date:   2014-01-29
 categories: posts
 tags: [Favorite Things on the Web]

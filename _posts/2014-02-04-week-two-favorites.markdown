@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week Two Favorites of the Internet"
-date:   2014-02-11
+title:  "Week Two"
+date:   2014-02-04
 categories: posts
 tags: [Favorite Things on the Web]
 ---
