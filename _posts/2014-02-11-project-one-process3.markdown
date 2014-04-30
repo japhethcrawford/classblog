@@ -3,7 +3,7 @@ layout: post
 title:  "Project One Process – Week Three"
 date:   2014-02-11
 categories: posts
-tags: [Project One Process]
+tags: [Project 1]
 ---
 
 [Download Mockup]({{ site.url }}/assets/project1/MockupProfilePage.pdf)<br />

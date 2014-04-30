@@ -3,7 +3,7 @@ layout: post
 title:  "Project One Process – Week One"
 date:   2014-01-29
 categories: posts
-tags: [Project One Process]
+tags: [Project 1]
 ---
 
 [Download Research Phase PDF]({{ site.url }}/assets/researchPhase.pdf)

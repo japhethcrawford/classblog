@@ -3,7 +3,7 @@ layout: post
 title:  "Project One Process – Week Two"
 date:   2014-02-04
 categories: posts
-tags: [Project One Process]
+tags: [Project 1]
 ---
 
 [Download Style Tile PDF]({{ site.url }}/assets/proj1StyleTileV1.pdf)<br />
