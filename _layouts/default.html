@@ -23,10 +23,29 @@
     <body>
 		<div class="container-fluid">
 	        <div class="site">
-	          <div class="header ">
-	            <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-				<div class="dropdown">
-				  <a data-toggle="dropdown" href="#">Dropdown trigger</a>
+	          <div class="header row">
+	            <h1 class="title col-md-3"><a href="{{ site.url }}">{{ site.name }}</a></h1>
+				<div style="padding-top: 2%;" class="col-md-3 col-sm-6 dropdown">
+				  <a data-toggle="dropdown" href="#">Project One - Enoch Pratt</a>
+				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					{% assign count = 0 %}
+					{% for post in site.posts %}
+					  {% if post.tags contains 'Project 1' %}
+					    {% if count < 20 %}
+					      {% assign count = count|plus:1 %}
+					      <div class="post_info">
+					        <li>
+					          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					          <span>({{ post.date |  date_to_string }})</span>
+					        </li>
+					      </div>
+					    {% endif %}
+					  {% endif %}
+					{% endfor %}
+				  </ul>
+				  </div>
+				  <div style="padding-top: 2%;" class="col-md-3 col-sm-6 dropdown">
+				  <a data-toggle="dropdown" href="#">Project One - Enoch Pratt</a>
 				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 					{% assign count = 0 %}
 					{% for post in site.posts %}
