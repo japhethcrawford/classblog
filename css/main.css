@@ -73,6 +73,10 @@ a:hover.postList {
 	color: #b41414;
 }
 
+dropdown-menu {
+	min-width: 800px;
+	border: none;
+}
 /*****************************************************************************/
 /*
 /* Site
