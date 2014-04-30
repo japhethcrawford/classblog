@@ -27,7 +27,7 @@ p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+
 
 /*****************************************************************************/
 /*
@@ -47,6 +47,14 @@ a:visited { color: #a0a; }
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+a:visited.postList {
+	color: white;
+}
+
+a:hover.postList {
+	text-decoration: none;
 }
 
 /*****************************************************************************/

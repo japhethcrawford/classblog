@@ -4,7 +4,7 @@ title: Japheth Crawford
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>Favorite Web Things</h1>
   
     
   <ul class="posts">
@@ -15,7 +15,7 @@ title: Japheth Crawford
       {% assign count = count|plus:1 %}
       <div class="post_info">
         <li>
-          <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
           <span>({{ post.date |  date_to_string }})</span>
         </li>
       </div>
