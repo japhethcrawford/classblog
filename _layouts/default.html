@@ -23,25 +23,25 @@
 	        <div class="site">
 	          <div class="header ">
 	            <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-	            <div class="dropdown posts">
-	            	<a data-toggle="dropdown" href="#">Dropdown trigger</a>
-	            	<ul class="dropdown menu" aris-labelledby="dlabel">
-	            		{% assign count = 0 %}
-							{% for post in site.posts %}
-							  {% if post.tags contains 'Project 1' %}
-							    {% if count < 20 %}
-							      {% assign count = count|plus:1 %}
-							      <div class="post_info">
-							        <li>
-							          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-							          <span>({{ post.date |  date_to_string }})</span>
-							        </li>
-							      </div>
-							    {% endif %}
-							  {% endif %}
-							{% endfor %}
-	            	</ul>
-	            </div>
+				<div class="dropdown">
+				  <a data-toggle="dropdown" href="#">Dropdown trigger</a>
+				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					{% assign count = 0 %}
+					{% for post in site.posts %}
+					  {% if post.tags contains 'Project 1' %}
+					    {% if count < 20 %}
+					      {% assign count = count|plus:1 %}
+					      <div class="post_info">
+					        <li>
+					          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					          <span>({{ post.date |  date_to_string }})</span>
+					        </li>
+					      </div>
+					    {% endif %}
+					  {% endif %}
+					{% endfor %}
+				  </ul>
+		   </div>
 	            <a class="extra" href="http://japhethcrawford.github.io/proj1">Project_01</a>
 	            <a class="extra" href="http://japhethcrawford.github.io/proj2">Project_02</a>
 
