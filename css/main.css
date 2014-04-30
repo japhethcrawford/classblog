@@ -55,6 +55,7 @@ a:visited.postList a.postList {
 
 a:hover.postList {
 	text-decoration: none;
+	color: #b41414;
 }
 
 /*****************************************************************************/
