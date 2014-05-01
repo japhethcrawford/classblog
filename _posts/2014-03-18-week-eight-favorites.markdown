@@ -6,14 +6,12 @@ categories: posts
 tags: [Favorite Things on the Web]
 ---
 
-##Active Theory
-<a target="_blank" href="http://activetheory.net/" rel="activetheory.net">![Foo]({{ site.url }}/assets/blogImages/2014/March/active1.jpg)</a>  
+##Barnyard - Brand Experience Builders
+<a target="_blank" href="http://www.barnyard.be/" rel="barnyard.be">![Foo]({{ site.url }}/assets/blogImages/2014/March/barn1.jpg)</a>  
   
    
-<a target="_blank" href="http://activetheory.net/" rel="activetheory.net">![Foo]({{ site.url }}/assets/blogImages/2014/March/active2.jpg)</a>   
+<a target="_blank" href="http://www.barnyard.be/" rel="barnyard.be">![Foo]({{ site.url }}/assets/blogImages/2014/March/barn2.jpg)</a>   
+ 
   
   
-<a target="_blank" href="http://activetheory.net/" rel="activetheory.net">![Foo]({{ site.url }}/assets/blogImages/2014/March/active3.jpg)</a>  
-  
-  
-Active Theory is an interactive studio based out of Santa Monica, CA. They do work with everything from product design to motion design and it shows in their website right from the start. Their homepage uses WebGL to create an interactive.. animated.. abstract... thing. It's sweet. Diving deeper into their "lab" you can see even more of these creations that they've worked on. Some are more subtle in tracking mouse movement than others.  
+Barnyard is a branding agency with a sense of humor based out of Belgium. Their site took forever for me to load on multiple networks, but that was alright.. half of what I liked about their site was the little rooster loading icon with clever sayings that followed the theme of their name, barnyard. It loaded everytime the site was reloaded though so I would code it to only load once and then unless the cache was cleared, don't display that again. The parallaxing video/image before the fold on the homepage is pretty cool.
