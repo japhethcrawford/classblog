@@ -6,14 +6,9 @@ categories: posts
 tags: [Favorite Things on the Web]
 ---
 
-##TBA
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki1.jpg)</a>  
+##NEXTEND Slider2
+<a target="_blank" href="http://www.nextendweb.com/demo/smartslider2/" rel="nextendweb.com">![Foo]({{ site.url }}/assets/blogImages/2014/April/slider1.jpg)</a>  
   
-   
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki2.jpg)</a>   
+
   
-  
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki3.jpg)</a>  
-  
-  
-The use of z-space in this studio's website is incredible. They use a video wall to run the entire site but you start out on their most recent project, the video screenshot is in the background, clicking anywhere plays the video in fullscreen in the browser, click anywhere to return to the write-up, scrolling moves you back in z-space to reveal the info and credits, etc.. keep scrolling down and you're back out on the full wall of videos which you can also limit to their favorites or search in a search pane they've provided. This is incredible, and for how complex it is, the site doesn't lag at all.
+My previous post on the headphones website – I'm pretty sure this is what was used to build the slider functionality. There are dozens of different sliders that can be implemented and they all vary in sizes and scope. some are meant to create the entire page, others are meant to just be a tiny little gallery. The pricing plans are a little confusing though, not sure what a subscription gets you over a one-time flat fee.
