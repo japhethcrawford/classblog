@@ -6,14 +6,12 @@ categories: posts
 tags: [Favorite Things on the Web]
 ---
 
-##TBA
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki1.jpg)</a>  
+##Barnyard - Brand Experience Builders
+<a target="_blank" href="http://www.barnyard.be/" rel="barnyard.be">![Foo]({{ site.url }}/assets/blogImages/2014/March/barn1.jpg)</a>  
   
    
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki2.jpg)</a>   
+<a target="_blank" href="http://www.barnyard.be/" rel="barnyard.be">![Foo]({{ site.url }}/assets/blogImages/2014/March/barn2.jpg)</a>   
+ 
   
   
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki3.jpg)</a>  
-  
-  
-The use of z-space in this studio's website is incredible. They use a video wall to run the entire site but you start out on their most recent project, the video screenshot is in the background, clicking anywhere plays the video in fullscreen in the browser, click anywhere to return to the write-up, scrolling moves you back in z-space to reveal the info and credits, etc.. keep scrolling down and you're back out on the full wall of videos which you can also limit to their favorites or search in a search pane they've provided. This is incredible, and for how complex it is, the site doesn't lag at all.
+Barnyard is a branding agency with a sense of humor based out of Belgium. Their site took forever for me to load on multiple networks, but that was alright.. half of what I liked about their site was the little rooster loading icon with clever sayings that followed the theme of their name, barnyard. It loaded everytime the site was reloaded though so I would code it to only load once and then unless the cache was cleared, don't display that again. The parallaxing video/image before the fold on the homepage is pretty cool.
