@@ -86,12 +86,18 @@ a:hover.postList {
 	list-style:none;
 	font-size:14px;
 	background-color:#fff;
-	border:1px solid #ccc;
-	border:1px solid rgba(0,0,0,.15);
+	border:none;
 	border-radius:4px;
-/* 	-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175); */
-/* 	box-shadow:0 6px 12px rgba(0,0,0,.175); */
+	-webkit-box-shadow:0 0px 0px rgba(0,0,0,0);
+	box-shadow:0 0px 0px rgba(0,0,0,0);
 	background-clip:padding-box}border: none;
+	}
+	
+	.open .dropdown-toggle.btn-default {
+  color: #333;
+  background-color: #ebebeb;
+  border-color: #ffffff;
+}
 
 /*****************************************************************************/
 /*
