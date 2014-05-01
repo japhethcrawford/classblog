@@ -7,13 +7,13 @@ tags: [Favorite Things on the Web]
 ---
 
 ##TBA
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki1.jpg)</a>  
+<a target="_blank" href="http://surfkoll.se/" rel="surfkoll.se">![Foo]({{ site.url }}/assets/blogImages/2014/February/surfkoll1.jpg)</a>  
   
    
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki2.jpg)</a>   
+<a target="_blank" href="http://surfkoll.se/" rel="surfkoll.se">![Foo]({{ site.url }}/assets/blogImages/2014/February/surfkoll2.jpg)</a>   
   
   
-<a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki3.jpg)</a>  
+<a target="_blank" href="http://surfkoll.se/" rel="surfkoll.se">![Foo]({{ site.url }}/assets/blogImages/2014/February/surfkoll3.jpg)</a>  
   
   
-The use of z-space in this studio's website is incredible. They use a video wall to run the entire site but you start out on their most recent project, the video screenshot is in the background, clicking anywhere plays the video in fullscreen in the browser, click anywhere to return to the write-up, scrolling moves you back in z-space to reveal the info and credits, etc.. keep scrolling down and you're back out on the full wall of videos which you can also limit to their favorites or search in a search pane they've provided. This is incredible, and for how complex it is, the site doesn't lag at all.
+This nifty little site allows you to install a plugin/addon to your browser that allows it to look into your history and analyze your web browsing habits and displays it all in an animated infographic. I did this hesitantly since.. it's really giving them a lot of info probably and I wouldn't be too happy with cached credit card info getting out and such but I took the chance. It was cool that it threw together the data so quickly, but of course it was only limited to what internet history/cache was on the Macbook Air I was using at the time which I only use a few times a week. It also was sort of a let down to see the same data just displayed in different ways. 
