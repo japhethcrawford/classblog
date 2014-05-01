@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "GlossyRey"
+title:  "NKI.tv"
 date:   2014-02-25
 categories: posts
 tags: [Favorite Things on the Web]
 ---
 
-##GlossyRey Studio
+##NKI.tv
 <a target="_blank" href="http://nki.tv/#!/en/project/id/96/" rel="NKI.tv">![Foo]({{ site.url }}/assets/blogImages/2014/February/nki1.jpg)</a>  
   
    
