@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Four"
+title:  "GlossyRey"
 date:   2014-02-18
 categories: posts
 tags: [Favorite Things on the Web]

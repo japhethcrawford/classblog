@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Seven"
+title:  "What do you know about your online activity?"
 date:   2014-03-11
 categories: posts
 tags: [Favorite Things on the Web]

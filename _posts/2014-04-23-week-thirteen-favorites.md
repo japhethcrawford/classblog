@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Thirteen"
+title:  "NEXTEND Slider2"
 date:   2014-04-23
 categories: posts
 tags: [Favorite Things on the Web]

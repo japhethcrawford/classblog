@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Eight"
+title:  "Active Theory"
 date:   2014-03-18
 categories: posts
 tags: [Favorite Things on the Web]

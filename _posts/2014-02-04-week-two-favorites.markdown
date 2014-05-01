@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Two"
+title:  "Globule Bleau, Flat V Realism..."
 date:   2014-02-04
 categories: posts
 tags: [Favorite Things on the Web]

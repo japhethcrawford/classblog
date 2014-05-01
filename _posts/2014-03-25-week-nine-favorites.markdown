@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Nine"
+title:  "Barnyard - Brand experience builders"
 date:   2014-03-25
 categories: posts
 tags: [Favorite Things on the Web]

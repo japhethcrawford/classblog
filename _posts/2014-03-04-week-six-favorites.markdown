@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Six"
+title:  "You Lost a Bet"
 date:   2014-03-04
 categories: posts
 tags: [Favorite Things on the Web]

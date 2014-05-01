@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Three"
+title:  "Knormal, Emotions of Sound..."
 date:   2014-02-11
 categories: posts
 tags: [Favorite Things on the Web]

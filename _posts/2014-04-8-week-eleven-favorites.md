@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Eleven"
+title:  "B&O Play"
 date:   2014-04-08
 categories: posts
 tags: [Favorite Things on the Web]
