@@ -24,8 +24,8 @@
 		<div class="container-fluid" style="text-align: center;">
 	        <div class="site">
 	          <div class="header row">
-	            <h1 class="title col-md-3"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-				<div style="padding-top: 2%;" class="col-md-3 col-sm-6 dropdown">
+	            <h1 class="title col-md-12"><a href="{{ site.url }}">{{ site.name }}</a></h1>
+				<div style="padding-top: 2%;" class="col-md-12 col-sm-6 dropdown">
 				  <a data-toggle="dropdown" href="#">Project One - Enoch Pratt</a>
 				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 					{% assign count = 0 %}
@@ -42,9 +42,12 @@
 					    {% endif %}
 					  {% endif %}
 					{% endfor %}
+					<li>
+						<a class="postList" href="http://japhethcrawford.github.io/proj1"><strong><h3 style="color: #2b7df7;">Finished Project</h3></strong></a>
+					</li>
 				  </ul>
 				  </div>
-				  <div style="padding-top: 2%;" class="col-md-3 col-sm-6 dropdown">
+				  <div style="padding-top: 2%;" class="col-md-6 col-sm-6 dropdown">
 				  <a data-toggle="dropdown" href="#">Project Two - Video Analytics API</a>
 				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 					{% assign count = 0 %}
@@ -61,6 +64,9 @@
 					    {% endif %}
 					  {% endif %}
 					{% endfor %}
+					<li>
+						<a class="postList" href="http://japhethcrawford.github.io/proj2"><strong><h3 style="color: #2b7df7;">Finished Project</h3></strong></a>
+					</li>
 				  </ul>
 		   </div>
 	  <!--
