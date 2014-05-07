@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Two initial Research?"
+title:  "Project Two initial Research"
 date:   2014-03-10
 categories: posts
 tags: [Project 2]
