@@ -25,8 +25,56 @@ title: Posts
 		<div class="container-fluid">
 		<div class="site">
 	          <div class="header ">
-	            <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-	            <a class="extra" href="http://japhethcrawford.github.io/proj1">Project_01</a>
+<div style="padding-top: 2%;" class="col-md-12 col-sm-6 dropdown">
+				  <a data-toggle="dropdown" href="#">Project One - Enoch Pratt</a>
+				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					{% assign count = 0 %}
+					{% for post in site.posts %}
+					  {% if post.tags contains 'Project 1' %}
+					    {% if count < 20 %}
+					      {% assign count = count|plus:1 %}
+					      <div class="post_info">
+					        <li>
+					          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					          <span>({{ post.date |  date_to_string }})</span>
+					        </li>
+					      </div>
+					    {% endif %}
+					  {% endif %}
+					{% endfor %}
+					<div class="post_info">
+						<li>
+							<a class="postList" href="http://japhethcrawford.github.io/proj1">
+							<strong><h1 style="font-size: 150%; color: #2b7df7;">Finished Project</h1></strong></a>
+						</li>
+					</div>
+				  </ul>
+				  </div>
+				  <div style="padding-top: 2%;" class="col-md-6 col-sm-6 dropdown">
+				  <a data-toggle="dropdown" href="#">Project Two - Video Analytics API</a>
+				  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					{% assign count = 0 %}
+					{% for post in site.posts %}
+					  {% if post.tags contains 'Project 2' %}
+					    {% if count < 20 %}
+					      {% assign count = count|plus:1 %}
+					      <div class="post_info">
+					        <li>
+					          <a class="postList" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+					          <span>({{ post.date |  date_to_string }})</span>
+					        </li>
+					      </div>
+					    {% endif %}
+					  {% endif %}
+					{% endfor %}
+					<div class="post_info">
+						<li>
+							<a class="postList" href="http://japhethcrawford.github.io/proj2">
+							<strong><h1 style="font-size: 150%; color: #2b7df7;">Finished Project</h1></strong></a>
+						</li>
+					</div>
+				  </ul>
+		   </div>	            <a class="extra" href="http://japhethcrawford.github.io/proj1">Project_01</a>
 	            <a class="extra" href="http://japhethcrawford.github.io/proj2">Project_02</a>
 	          </div><!-- End Header -->
 
